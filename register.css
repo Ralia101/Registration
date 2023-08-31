@@ -24,7 +24,7 @@ input {
 }
 
 body {
-    background: url('../images/bg-intro-mobile.png'),hsl(0, 100%, 74%);
+    background: url('./bg-intro-mobile.png'),hsl(0, 100%, 74%);
     display: grid;
     place-content: center;
     padding-inline: 1.5rem;
